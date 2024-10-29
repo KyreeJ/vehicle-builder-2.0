@@ -21,6 +21,7 @@
   * Email - lilboyblue207@gmail.com
   * Github -https://github.com/KyreeJ
   ## Contributors
+  contributors to this project assist with TA katie redford ,Dan mueller
   
   ## testing
  ![alt text](<Screenshot 2024-10-28 at 3.54.26 PM.png>) ![alt text](<Screenshot 2024-10-28 at 3.35.58 PM.png>) ![alt text](<Screenshot 2024-10-28 at 3.35.42 PM.png>)
